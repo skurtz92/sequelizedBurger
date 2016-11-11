@@ -1,0 +1,2 @@
+# sequelizedBurger
+sequelize that bish
